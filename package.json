@@ -58,5 +58,9 @@
     "supertest": "^4.0.2",
     "ts-jest": "^26.1.0",
     "typescript": "^3.8.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ViniciusDaniel-hub/DesafioReactNative.git",
+  "author": "ViniciusDaniel-hub <vinihubdanivie@hotmail.com>",
+  "license": "MIT"
 }
